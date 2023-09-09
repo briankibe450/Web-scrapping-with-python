@@ -7,7 +7,7 @@ Ensure that Python is installed on your computer. You can download it from the o
 **Step 2: Install Necessary Libraries**
 You'll need some Python libraries for web scraping. Commonly used libraries include:
 - `requests`: For making HTTP requests to websites.
-- `Beautiful Soup`: For parsing HTML and XML documents.
+- `Beautiful Soup`: For parsing HTML and XML documen
 - `Selenium` (optional): For web scraping with dynamic content or JavaScript-rendered pages.
 - `Scrapy` (optional): A more advanced web scraping framework.
 
